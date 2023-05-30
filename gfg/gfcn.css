@@ -1,0 +1,36 @@
+h1,
+p,
+h2 {
+    font-family: cursive;
+    text-align: center;
+    color: rgb(197, 17, 155);
+}
+
+html {
+    background-color: black;
+}
+
+p {
+    font-size: large;
+    font-weight: 100px;
+    text-align: center;
+    color: black;
+}
+
+input {
+    width: 50%;
+    margin: 8px;
+    padding: 20px;
+}
+
+input#checkbox {
+    margin: 1px;
+    width: auto;
+    padding: auto;
+}
+
+body {
+    background-image: url(https://img.freepik.com/premium-photo/valentine-day-love-beautiful-heart-hanging-branch-tree-generative-ai_372999-10666.jpg);
+    width: 100%;
+    height: 100%;
+}
